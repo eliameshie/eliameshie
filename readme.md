@@ -1,5 +1,5 @@
  <h1>Hello I'm Elikem 🌼</h1>
- <p>I am a Full Stack Developer who has a passion for creating things to make people's life easier. I enjoy gaming, photography and fashion.</p>
+ <p>I am a Full Stack Software Engineer who is a hard, resilient worker looking to bring a positive light to the development community. I have been interested and following in the tech world and have grasped skills and solutions in hopes to solve people's technology endeavors. I am very much open to collaborating with other developers!</p>
  <h4>Reach out to me!</h4>
  <div>
     <a href="https://www.linkedin.com/in/eliameshie/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -23,4 +23,8 @@
  
  <div>
     <h6>Development Tools</h6>
+    <img src="https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white" />
+    <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
+    <img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white" />
+    <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" />
  </div>
